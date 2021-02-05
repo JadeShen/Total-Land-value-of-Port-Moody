@@ -23,6 +23,8 @@ A two-stage cluster sample is obtained by first selecting a sample of cluster, a
 
 ## Conclusion: 
 
-Total land value in 12 zones is 11237399692, and the CI changes to (9535200455, 12939598928).
-
 ![alt text](https://github.com/JadeShen/Total-Land-value-of-Port-Moody/blob/main/result.png)
+
+The above picture is estimate for 11 zones, then add the total value for zone 12 (oil facotry $ 121279000). Total land value in 12 zones is 11237399692, and the CI changes to (9535200455, 12939598928). 
+
+
